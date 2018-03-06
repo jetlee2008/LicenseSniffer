@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackagesCollector", "PackagesCollector\PackagesCollector.csproj", "{DDF70D01-796D-47AA-B62C-D8FF93C2706C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseSnifferLib", "LicenseSnifferLib\LicenseSnifferLib.csproj", "{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF70D01-796D-47AA-B62C-D8FF93C2706C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF70D01-796D-47AA-B62C-D8FF93C2706C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF70D01-796D-47AA-B62C-D8FF93C2706C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF70D01-796D-47AA-B62C-D8FF93C2706C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

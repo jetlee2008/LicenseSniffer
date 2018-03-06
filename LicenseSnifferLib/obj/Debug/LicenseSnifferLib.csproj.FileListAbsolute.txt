@@ -1,0 +1,5 @@
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseSnifferLib\bin\Debug\LicenseSnifferLib.dll
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseSnifferLib\bin\Debug\LicenseSnifferLib.pdb
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseSnifferLib\obj\Debug\LicenseSnifferLib.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseSnifferLib\obj\Debug\LicenseSnifferLib.dll
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseSnifferLib\obj\Debug\LicenseSnifferLib.pdb

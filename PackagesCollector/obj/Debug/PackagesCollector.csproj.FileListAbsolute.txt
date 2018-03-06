@@ -1,0 +1,8 @@
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\bin\Debug\PackagesCollector.exe.config
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\bin\Debug\PackagesCollector.exe
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\bin\Debug\PackagesCollector.pdb
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\obj\Debug\PackagesCollector.exe
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\obj\Debug\PackagesCollector.pdb
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\obj\Debug\PackagesCollector.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\bin\Debug\LicenseSnifferLib.dll
+D:\visual studio 2015\Projects\LicenseSniffer\PackagesCollector\bin\Debug\LicenseSnifferLib.pdb

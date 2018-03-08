@@ -1,0 +1,11 @@
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\LicenseQuerier.exe.config
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\LicenseQuerier.exe
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\LicenseQuerier.pdb
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\LicenseSnifferLib.dll
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\LicenseSnifferLib.pdb
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\obj\Debug\LicenseQuerier.csprojResolveAssemblyReference.cache
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\obj\Debug\LicenseQuerier.exe
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\obj\Debug\LicenseQuerier.pdb
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\HtmlAgilityPack.dll
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\HtmlAgilityPack.pdb
+D:\visual studio 2015\Projects\LicenseSniffer\LicenseQuerier\bin\Debug\HtmlAgilityPack.xml

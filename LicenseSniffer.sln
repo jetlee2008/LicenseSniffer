@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackagesCollector", "Packag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseSnifferLib", "LicenseSnifferLib\LicenseSnifferLib.csproj", "{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseQuerier", "LicenseQuerier\LicenseQuerier.csproj", "{6B142B4F-6542-4B7B-8F79-DAA9B021F026}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED39F55-7AF9-4BC8-BD3C-8162A4D2372D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B142B4F-6542-4B7B-8F79-DAA9B021F026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B142B4F-6542-4B7B-8F79-DAA9B021F026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B142B4F-6542-4B7B-8F79-DAA9B021F026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B142B4F-6542-4B7B-8F79-DAA9B021F026}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

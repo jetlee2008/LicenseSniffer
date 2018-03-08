@@ -11,7 +11,13 @@ namespace LicenseSnifferLib
         public string PackageId { get; set; }
 
         public string PackageVersion { get; set; }
-      
+
+        public string LicenseInfo { get; set; }
+
+        public string LicenseInfoLink { get; set; }
+
+        public string Result { get; set; }
+
         public PackageModel(string packageInfo)
         {
             var infos = packageInfo.Split(':');

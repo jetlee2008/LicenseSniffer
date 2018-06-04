@@ -25,6 +25,11 @@ namespace LicenseSnifferLib
             PackageVersion = infos[1];
         }
 
+        public PackageModel()
+        {
+           
+        }
+
         public override bool Equals(object obj)
         {
             var input = (PackageModel)obj;
